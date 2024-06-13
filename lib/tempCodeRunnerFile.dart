@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'admin_page.dart'; 
-import 'mahasiswa_page.dart'; 
+import 'admin_page.dart'; // Pastikan untuk mengimpor file AdminPage
+import 'mahasiswa_page.dart'; // Pastikan untuk mengimpor file MahasiswaPage
 
 void main() {
   runApp(MyApp());
